@@ -67,6 +67,30 @@ Sistema de gestión de inventario orientado al control de productos, existencias
 - Solicitudes de transferencia entre sucursales.
 - Integración entre frontend y backend.
 
+### 💄 Beauty is Sweet — Sistema de Gestión y Análisis Financiero
+
+Sistema orientado a la administración empresarial y al análisis financiero, facilitando el control de operaciones y la interpretación de información para apoyar la toma de decisiones.
+
+**Áreas de desarrollo:**
+- Gestión de información empresarial.
+- Administración y seguimiento de operaciones financieras.
+- Análisis de datos e indicadores financieros.
+- Organización y consulta de información.
+- Apoyo a la toma de decisiones mediante información estructurada.
+
+###  🛍️ Omni Moda — Sistema de Gestión Comercial y Administrativa (ERP)
+
+Sistema ERP orientado a centralizar y optimizar los procesos comerciales y administrativos de un negocio, integrando diferentes áreas de gestión en una misma plataforma.
+
+**Áreas de desarrollo:**
+
+- Gestión de productos, clientes y proveedores.
+- Administración de ventas y operaciones comerciales.
+- Gestión de promociones y descuentos.
+- Control de inventario.
+- Centralización de información empresarial.
+- Integración de interfaz con servicio shopping cart.
+
 ### 📱 Kaori — Aplicación móvil
 
 Aplicación móvil enfocada en el seguimiento y registro del ciclo menstrual.
@@ -103,4 +127,4 @@ Me interesa participar en proyectos donde pueda aportar mis conocimientos, apren
 
 ---
 
-⭐ Gracias por visitar mi perfil. ¡Conoce mis proyectos y mi trabajo!****
+⭐ Gracias por visitar mi perfil. ¡Conoce mis proyectos y mi trabajo!
